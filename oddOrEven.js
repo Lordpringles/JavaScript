@@ -1,9 +1,3 @@
-var question1 = 'what is your ';
-var question2 = prompt('question age/name');
-var question = question1 + question2 + '?';             choose age or name
-var answer = prompt(question);
-alert('welcome to my website '+answer ); 
-
 
 var a = prompt('type in a number');
 var b = prompt('type in another number');
