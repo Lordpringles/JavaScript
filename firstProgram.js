@@ -8,26 +8,7 @@ console.warn('not that stupid tho');
 console.log('%c Hello World ','color: yellow;background:purple');
 
 /*
-var question1 = 'what is your ';
-var question2 = prompt('question age/name');
-var question = question1 + question2 + '?';             choose age or name
-var answer = prompt(question);
-alert('welcome to my website '+answer ); 
 
-
-var a = prompt('type in a number');
-var b = prompt('type in another number');
-a = Number(a);
-b = Number(b);
-var total = a + b;
-                                                                                                    sum of 2 numbers is odd or even
-if (total % 2 === 0){
-    console.log('the total of '+a+' + '+b+' is '+total+' and it\'s an even number');
-}else if (total % 2 !== 0){
-    console.log('the total of '+a+' + '+b+' is '+total+' and it\'s an odd number');
-}else{
-    console.log('invalid number')
-}
 
 
 var tasks = [' 1-code', ' 2-shower', ' 3-do the dishes', ' 4-watch livestream', ' 5-go to bed',];
